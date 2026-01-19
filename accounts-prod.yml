@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "This is new from webhook"
+  message: "This is new from webhook v2"
   contactDetails:
     name: "Adnan Beganovic - Product Owner"
     email: "{cipher}16d036632ae365e55732749b8cc5b75f3fecf071251ddf71b44c90f29ed6bb92e7acea41da131dde2362a0bb886ab255"
@@ -10,6 +10,7 @@ accounts:
     - (43)664 111-937 26
 
     - (43)664 932-937 27
+
 
 
 
