@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to CamelBank cards QA"
+  contactDetails:
+    name: "Adnan Beganovic - QA Lead"
+    email: "beganovicadnan95@gmail.com"
+  onCallSupport:
+    - (43)664 000-937 26
+    - (43)664 932-937 27

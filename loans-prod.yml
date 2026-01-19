@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to CamelBank loans prod APIs"
+  contactDetails:
+    name: "Adnan Beganovic - Product Owner"
+    email: "beganovicadnan95@gmail.com"
+  onCallSupport:
+    - (43)664 111-937 26
+    - (43)664 932-937 27

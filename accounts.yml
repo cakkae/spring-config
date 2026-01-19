@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to CamelBank accounts"
+  contactDetails:
+    name: "Adnan Beganovic - Developer"
+    email: "beganovicadnan95@gmail.com"
+  onCallSupport:
+    - (43)664 932-937 26
+    - (43)664 932-937 27
+
