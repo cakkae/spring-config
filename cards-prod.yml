@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:
+cards:
   message: "Welcome to CamelBank cards prod APIs by Webhook"
   contactDetails:
     name: "Adnan Beganovic - Product Owner"
@@ -10,6 +10,7 @@ accounts:
     - (43)664 111-937 26
 
     - (43)664 932-937 27
+
 
 
 
